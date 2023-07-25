@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BIM Android</string>
+    <string name="enter_your_height_in_ft">Enter your Height in (Ft)</string>
+    <string name="enter_your_height_in_inches">Enter Your Height in (Inches)</string>
+    <string name="enter_your_weight">Enter Your Weight</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+</resources>
